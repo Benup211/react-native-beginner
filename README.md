@@ -7,3 +7,7 @@
     - Conditional Rendering: When value is changed it re-render the changed component
     - State: useState to manage state, pass it to the childern
     - Unexpected Behaviour of state: set state require to be the function of the component to change
+
+## Temperature Converter
+    - useState and useEffect in working
+    - useEffect:render when it is mounted,it re-run when changes occur in  dependencies
