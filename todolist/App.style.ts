@@ -4,9 +4,13 @@ export const s = StyleSheet.create({
     root: {
         flex: 1,
     },
+    card:{
+        marginBottom:15,
+    },
     app: {
         flex: 1,
         backgroundColor: "#F9F9F9",
+        padding:15
     },
     header: { flex: 1 },
     body: { flex: 5 },
